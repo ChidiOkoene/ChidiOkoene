@@ -1,6 +1,3 @@
-Sure! Here's a short README for your GitHub profile:
-
----
 
 # Welcome to My GitHub Profile!
 
